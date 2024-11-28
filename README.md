@@ -51,8 +51,6 @@ Developed by: Anjali K RegisterNumber: 24900073
 **RTL**
 ![Screenshot 2024-11-28 110411](https://github.com/user-attachments/assets/431933a9-82bd-4dfc-8392-6f18acdc2f66)
 
-**Timing Diagram**
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
