@@ -49,7 +49,9 @@ Developed by: Anjali K RegisterNumber: 24900073
 **Output:**
 
 **RTL**
+
 ![Screenshot 2024-11-28 110411](https://github.com/user-attachments/assets/431933a9-82bd-4dfc-8392-6f18acdc2f66)
+
 
 **Result:**
 
